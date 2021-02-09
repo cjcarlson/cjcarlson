@@ -1,7 +1,7 @@
 <img align="right" src="presence.jpg" width="500">
 
 
-👨‍🎤 Hello! My name is Colin. You can read more about who I am [website](colinjcarlson.com).
+👨‍🎤 Hello! My name is Colin. You can read more about who I am [website](www.colinjcarlson.com).
 
 🎓 I'm currently an Assistant Research Professor at Georgetown University, in the [Center for Global Health Science and Security](https://ghss.georgetown.edu/). 
 
