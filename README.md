@@ -1,9 +1,9 @@
 <img align="right" src="presence.jpg" width="500">
 
 
-👨‍🎤 Hi! I'm Colin. You can read more about me [here](https://www.carlsonlab.bio).
+👨‍🎤 Hi! I'm Colin. 
 
-🎓 I'm currently an Assistant Research Professor at Georgetown University, in the [Center for Global Health Science and Security](https://ghss.georgetown.edu/). 
+🎓 I'm currently an Assistant Research Professor at Georgetown University. Check out what our lab works on [here](https://www.carlsonlab.bio).
 
 🦠 I'm also director of the [Verena Institute](https://www.viralemergence.org), a team of researchers using artificial intelligence to predict the where, when, and how of viral emergence.
 
