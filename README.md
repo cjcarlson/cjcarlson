@@ -1,7 +1,7 @@
 <img align="right" src="presence.jpg" width="500">
 
 
-👨‍🎤 Hi! I'm Colin. 
+# Hi! I'm Colin. 👨‍🎤 
 
 🎓 I'm currently an Assistant Research Professor at Georgetown University. Check out what our lab works on [here](https://www.carlsonlab.bio).
 
